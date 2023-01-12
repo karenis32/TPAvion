@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\bin\Debug\TPAvionForms.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\bin\Debug\TPAvionForms.exe
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\bin\Debug\TPAvionForms.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\bin\Debug\TPAvion.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\bin\Debug\TPAvion.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.exe
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvionForms\obj\Debug\TPAvionForms.pdb
