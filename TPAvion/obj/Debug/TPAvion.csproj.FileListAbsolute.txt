@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvion\bin\Debug\TPAvion.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvion\bin\Debug\TPAvion.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvion\obj\Debug\TPAvion.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvion\obj\Debug\TPAvion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvion\obj\Debug\TPAvion.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Clase 2\TPAvion\TPAvion\obj\Debug\TPAvion.pdb
